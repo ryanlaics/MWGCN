@@ -9,7 +9,7 @@ This repo is the source code of the paper Multiscale Wavelet-Driven Graph Convol
 The experimental data are SCADA data from two wind turbines installed in the Inner Mongolia Autonomous Region, China, which were provided by the Chinese Ministry of Industry and Information Technology (MIIT).
 For the dataset acquisition, please refer to http://106.38.3.217/pages/datadown/dataset/dataSet06.jsp or contact the data holder industrial-bigdata@caict.ac.cn for authorisation.
 
-#3 Running
+# 3 Running
 For model training, please run train.py. For model testing, please run test.py
 
 
